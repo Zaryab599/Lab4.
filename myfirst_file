@@ -1,0 +1,6 @@
+Console.WriteLine("Enter number 1");
+int a = convert.ToInt32(console.ReadLine());
+Console.WriteLine("Enter number 2");
+int b = convert.ToInt32(Console.ReadLine());
+int sum = a +b;
+console.WriteLine(sum);
